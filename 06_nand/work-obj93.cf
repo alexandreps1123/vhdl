@@ -1,0 +1,7 @@
+v 4
+file . "tb_nand.vhdl" "5fe9f9b1a16f960832c90d040c527551db12f980" "20210812141540.570":
+  entity tb_nand at 1( 0) + 0 on 13;
+  architecture tb1 of tb_nand at 8( 83) + 0 on 14;
+file . "my_nand.vhdl" "99e169a9488b7ac915e6a0331b6a8d98cd57edb7" "20210812141533.174":
+  entity my_nand at 1( 0) + 0 on 11;
+  architecture basic of my_nand at 12( 148) + 0 on 12;

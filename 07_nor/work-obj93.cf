@@ -1,0 +1,7 @@
+v 4
+file . "tb_nor.vhdl" "e9c4690196e5e6c8ce120dfae2b8d55a92d7ef9c" "20210812141740.165":
+  entity tb_nor at 1( 0) + 0 on 13;
+  architecture tb1 of tb_nor at 8( 81) + 0 on 14;
+file . "my_nor.vhdl" "aa8dd8604fcb2ac06c0c8581e10bd1150cd8fb1d" "20210812141722.262":
+  entity my_nor at 1( 0) + 0 on 11;
+  architecture basic of my_nor at 12( 146) + 0 on 12;

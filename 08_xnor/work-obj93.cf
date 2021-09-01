@@ -1,0 +1,7 @@
+v 4
+file . "tb_xnor.vhdl" "8b0d57612d727388a70accf78270d6f5ed5b38b9" "20210812141956.619":
+  entity tb_xnor at 1( 0) + 0 on 13;
+  architecture tb1 of tb_xnor at 8( 83) + 0 on 14;
+file . "my_xnor.vhdl" "28ab4323b751fdade2c541b77b3107e2f485c0d1" "20210812141943.650":
+  entity my_xnor at 1( 0) + 0 on 11;
+  architecture basic of my_xnor at 12( 148) + 0 on 12;

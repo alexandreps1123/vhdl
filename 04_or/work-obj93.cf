@@ -1,0 +1,7 @@
+v 4
+file . "tb_or.vhdl" "58e9d777b9368042d3f1c8501f0352cfe35b8e60" "20210812141144.776":
+  entity tb_or at 1( 0) + 0 on 13;
+  architecture tb1 of tb_or at 8( 79) + 0 on 14;
+file . "my_or.vhdl" "29b4e2cf248ce1feb7fdd2ab01ec3bf702a57d80" "20210812141136.203":
+  entity my_or at 1( 0) + 0 on 11;
+  architecture basic of my_or at 12( 144) + 0 on 12;

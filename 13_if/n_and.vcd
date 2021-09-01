@@ -1,0 +1,90 @@
+$date
+  Thu Aug 19 02:07:07 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb_my_n_and $end
+$var reg 2 ! a_in[1:0] $end
+$var reg 1 " sel_in $end
+$var reg 1 # y_out $end
+$scope module dut $end
+$var reg 2 $ a[1:0] $end
+$var reg 1 % sel $end
+$var reg 1 & y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+bXX !
+0"
+X#
+bXX $
+0%
+X&
+#1000000
+1"
+1%
+#2000000
+b00 !
+0"
+1#
+b00 $
+0%
+1&
+#3000000
+1"
+0#
+1%
+0&
+#4000000
+b01 !
+0"
+1#
+b01 $
+0%
+1&
+#5000000
+1"
+0#
+1%
+0&
+#6000000
+b10 !
+0"
+1#
+b10 $
+0%
+1&
+#7000000
+1"
+0#
+1%
+0&
+#8000000
+b11 !
+0"
+b11 $
+0%
+#9000000
+1"
+1#
+1%
+1&
+#10000000
+bXX !
+0"
+X#
+bXX $
+0%
+X&
+#11000000
+1"
+1%

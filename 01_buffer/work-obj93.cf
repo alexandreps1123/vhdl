@@ -1,0 +1,7 @@
+v 4
+file . "tb_buffer.vhdl" "924d2bee463d264aeb1c44258d03ce4c87978c3f" "20210812140745.878":
+  entity tb_buffer at 1( 0) + 0 on 13;
+  architecture tb1 of tb_buffer at 8( 87) + 0 on 14;
+file . "my_buffer.vhdl" "b314d5c59491db96807edb792e5f356a050f1c9c" "20210812140734.304":
+  entity my_buffer at 1( 0) + 0 on 11;
+  architecture basic of my_buffer at 11( 132) + 0 on 12;

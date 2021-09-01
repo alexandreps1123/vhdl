@@ -1,0 +1,13 @@
+v 4
+file . "tb_xnor2.vhdl" "b32f6e037b1db2325a350a4cfe99ba5d3647d7f9" "20210812152117.034":
+  entity tb_xnor2 at 2( 18) + 0 on 17;
+  architecture tb1 of tb_xnor2 at 9( 104) + 0 on 18;
+file . "my_not.vhdl" "04bf912ba46bb246f999cd90fd9040fde33e2a20" "20210812151017.062":
+  entity my_not at 1( 0) + 0 on 13;
+  architecture basic of my_not at 11( 126) + 0 on 14;
+file . "my_xor.vhdl" "3ff6443aa281aaa6fa048d3070c849c96e18ad2e" "20210812151006.985":
+  entity my_xor at 1( 0) + 0 on 11;
+  architecture basic of my_xor at 12( 146) + 0 on 12;
+file . "my_struct_xnor.vhdl" "fa2376834a31cb40153a6a12ad0fc96c1e94d049" "20210812151123.378":
+  entity my_struct_xnor at 1( 0) + 0 on 15;
+  architecture basic of my_struct_xnor at 12( 161) + 0 on 16;

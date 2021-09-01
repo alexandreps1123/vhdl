@@ -1,0 +1,13 @@
+v 4
+file . "tb_nand2.vhdl" "7ec01e355e485e5aa69171e572e15ca95f21d719" "20210812140443.989":
+  entity tb_nand2 at 2( 18) + 0 on 17;
+  architecture tb1 of tb_nand2 at 9( 104) + 0 on 18;
+file . "my_and.vhdl" "a7d7f346aa2670fa989ef740a494bab61eb41dcc" "20210812140416.659":
+  entity my_and at 1( 0) + 0 on 13;
+  architecture basic of my_and at 12( 146) + 0 on 14;
+file . "my_not.vhdl" "04bf912ba46bb246f999cd90fd9040fde33e2a20" "20210812140403.625":
+  entity my_not at 1( 0) + 0 on 11;
+  architecture basic of my_not at 11( 126) + 0 on 12;
+file . "my_struct_nand.vhdl" "ba149a9180e038bb2f30f59d07e3a64c94f02335" "20210812140432.291":
+  entity my_struct_nand at 1( 0) + 0 on 15;
+  architecture basic of my_struct_nand at 12( 161) + 0 on 16;

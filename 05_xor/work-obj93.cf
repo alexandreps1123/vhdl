@@ -1,0 +1,7 @@
+v 4
+file . "tb_xor.vhdl" "8e310dd84a7da5f54d893bfacb794d42e83f4359" "20210812141332.192":
+  entity tb_xor at 1( 0) + 0 on 13;
+  architecture tb1 of tb_xor at 8( 81) + 0 on 14;
+file . "my_xor.vhdl" "3ff6443aa281aaa6fa048d3070c849c96e18ad2e" "20210812141324.170":
+  entity my_xor at 1( 0) + 0 on 11;
+  architecture basic of my_xor at 12( 146) + 0 on 12;

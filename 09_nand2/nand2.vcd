@@ -1,0 +1,94 @@
+$date
+  Thu Aug 12 11:05:09 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb_nand2 $end
+$var reg 1 ! a_in $end
+$var reg 1 " b_in $end
+$var reg 1 # y_out $end
+$scope module dut $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & y $end
+$var reg 1 ' and2not $end
+$scope module and1 $end
+$var reg 1 ( a $end
+$var reg 1 ) b $end
+$var reg 1 * y $end
+$upscope $end
+$scope module not1 $end
+$var reg 1 + a $end
+$var reg 1 , y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+X!
+X"
+X#
+X$
+X%
+X&
+X'
+X(
+X)
+X*
+X+
+X,
+#1000000
+0!
+0"
+1#
+0$
+0%
+1&
+0'
+0(
+0)
+0*
+0+
+1,
+#2000000
+1"
+1%
+1)
+#3000000
+1!
+0"
+1$
+0%
+1(
+0)
+#4000000
+1"
+0#
+1%
+0&
+1'
+1)
+1*
+1+
+0,
+#5000000
+0!
+0"
+1#
+0$
+0%
+1&
+0'
+0(
+0)
+0*
+0+
+1,

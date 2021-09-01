@@ -1,0 +1,16 @@
+v 4
+file . "my_struct_nor.vhdl" "e15b5b4e5386f303cd23f8c3679df9d9578fe5fa" "20210812145224.422":
+  entity my_struct_nor at 1( 0) + 0 on 21;
+  architecture basic of my_struct_nor at 12( 159) + 0 on 22;
+file . "tb_nor2.vhdl" "693b1dbf131f42f3e3e5a361387c41f127e2f6d3" "20210812145046.264":
+  entity tb_nor2 at 1( 0) + 0 on 17;
+  architecture tb1 of tb_nor2 at 8( 84) + 0 on 18;
+file . "my_or.vhdl" "29b4e2cf248ce1feb7fdd2ab01ec3bf702a57d80" "20210812143419.267":
+  entity my_or at 1( 0) + 0 on 13;
+  architecture basic of my_or at 12( 144) + 0 on 14;
+file . "my_not.vhdl" "04bf912ba46bb246f999cd90fd9040fde33e2a20" "20210812143405.978":
+  entity my_not at 1( 0) + 0 on 11;
+  architecture basic of my_not at 11( 126) + 0 on 12;
+file . "my_struct_or.vhdl" "b471ffd27d160564b586294d8de2384d47928fa8" "20210812145119.445":
+  entity my_struct_or at 1( 0) + 0 on 19;
+  architecture basic of my_struct_or at 12( 157) + 0 on 20;

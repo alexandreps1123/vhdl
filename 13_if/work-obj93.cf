@@ -1,0 +1,7 @@
+v 4
+file . "my_n_and.vhd" "7d0db9757bf643bc39175f424e4b34dcccee2066" "20210819050541.502":
+  entity my_n_and at 1( 0) + 0 on 15;
+  architecture basic of my_n_and at 12( 176) + 0 on 16;
+file . "tb_my_n_and.vhd" "e8a5abf9bf23ab69f54035274a5d072285e62462" "20210819050652.846":
+  entity tb_my_n_and at 1( 0) + 0 on 17;
+  architecture tb1 of tb_my_n_and at 8( 92) + 0 on 18;

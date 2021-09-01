@@ -1,0 +1,7 @@
+v 4
+file . "tb_my_logic.vhdl" "5788467f2ae67dd44e4fb6f3e57ec37c0fd98c9a" "20210819053406.902":
+  entity tb_my_logic at 1( 0) + 0 on 13;
+  architecture tb1 of tb_my_logic at 8( 92) + 0 on 14;
+file . "my_logic.vhdl" "f7e7b8152e5aa7c705cde7c8089742ae8dcc0c2c" "20210819051925.734":
+  entity my_logic at 1( 0) + 0 on 11;
+  architecture basic of my_logic at 12( 195) + 0 on 12;

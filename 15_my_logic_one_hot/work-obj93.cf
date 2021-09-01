@@ -1,0 +1,7 @@
+v 4
+file . "my_logic_one_hot.vhd" "893148bf9879348c0d26068704c13134df89e7ee" "20210823225944.386":
+  entity my_logic_one_hot at 1( 0) + 0 on 11;
+  architecture basic of my_logic_one_hot at 13( 211) + 0 on 12;
+file . "tb_one_hot.vhd" "fe07a6743b2de58698d5e1122630c771c1e9ff1c" "20210823233729.785":
+  entity tb_one_hot at 1( 0) + 0 on 15;
+  architecture tb1 of tb_one_hot at 8( 90) + 0 on 16;

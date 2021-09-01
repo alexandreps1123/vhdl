@@ -1,0 +1,7 @@
+v 4
+file . "tb_not.vhdl" "9bb14cac6e1291e248cb03f9cc4d00542f046004" "20210812140848.298":
+  entity tb_not at 2( 19) + 0 on 13;
+  architecture tb of tb_not at 9( 101) + 0 on 14;
+file . "my_not.vhdl" "04bf912ba46bb246f999cd90fd9040fde33e2a20" "20210812140839.699":
+  entity my_not at 1( 0) + 0 on 11;
+  architecture basic of my_not at 11( 126) + 0 on 12;
