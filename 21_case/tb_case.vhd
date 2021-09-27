@@ -57,7 +57,7 @@ ULA: dut_case
 					sel <= std_logic_vector(to_unsigned(OP,sel'length));
 					i_a <= std_logic_vector(to_signed(A,i_a'length));
 					i_b <= std_logic_vector(to_signed(B,i_b'length));
-					wait for 1 ns;
+					wait for 2 ns;
 				end loop;
 			end loop;
 		end loop;
