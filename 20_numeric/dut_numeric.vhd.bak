@@ -1,0 +1,15 @@
+--exemplo de utilizacao do pacote numeric_std
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+
+entity dut_numeric is
+	generic(
+		Kbits: natural := 8
+	);
+	port(
+		clk : in std_logic;
+		i_a : in std_logic_vector(Kbits-1 downto 0);
+		i_b : in std_logic_vector(Kbits-1 downto 0);
+		o_y : out std_logic_vector(2*Kbits-1 downto 0)
+	);

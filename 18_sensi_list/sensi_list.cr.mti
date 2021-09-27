@@ -1,0 +1,9 @@
+/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/18_sensi_list/tb_sensi_list.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/18_sensi_list/tb_sensi_list.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_sensi_list
+-- Compiling architecture tb1 of tb_sensi_list
+
+} {} {}}

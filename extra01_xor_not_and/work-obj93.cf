@@ -1,0 +1,13 @@
+v 4
+file . "tb_extra_xor.vhdl" "6d176db67c7e3694293c4c495a71d3eba64ee182" "20210813010001.789":
+  entity tb_extra_xor at 1( 0) + 0 on 17;
+  architecture tb1 of tb_extra_xor at 8( 94) + 0 on 18;
+file . "my_and.vhdl" "a7d7f346aa2670fa989ef740a494bab61eb41dcc" "20210813004817.434":
+  entity my_and at 1( 0) + 0 on 13;
+  architecture basic of my_and at 12( 146) + 0 on 14;
+file . "my_not.vhdl" "04bf912ba46bb246f999cd90fd9040fde33e2a20" "20210813004806.591":
+  entity my_not at 1( 0) + 0 on 11;
+  architecture basic of my_not at 11( 126) + 0 on 12;
+file . "my_xor_notand.vhdl" "0f2cb71cbe58d45e3565cd80149e3c8e2d1668f8" "20210813005029.167":
+  entity my_xor_notand at 1( 0) + 0 on 15;
+  architecture basic of my_xor_notand at 12( 159) + 0 on 16;

@@ -1,0 +1,17 @@
+/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/dut_clocked.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/dut_clocked.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dut_clocked
+-- Compiling architecture basic of dut_clocked
+
+} {} {}} /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/tb_clocked.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/tb_clocked.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_clocked
+-- Compiling architecture tb1 of tb_clocked
+
+} {} {}}

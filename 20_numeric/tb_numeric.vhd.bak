@@ -1,0 +1,23 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+
+entity tb_numeric is
+	generic(
+		Kbits: natural := 8
+	);
+end entity;
+
+architecture sim of tb_numeric is
+	component dut_numeric is
+		generic(
+			Kbits: natural := 8
+		);
+		port(
+			clk : in std_logic;
+			i_a : in std_logic_vector(Kbits-1 downto 0);
+			i_b : in std_logic_vector(Kbits-1 downto 0);
+			o_y : out std_logic_vector(Kbits-1 downto 0)
+		);
+	end component;
+end sim;
