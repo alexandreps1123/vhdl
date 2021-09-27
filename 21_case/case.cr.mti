@@ -1,0 +1,19 @@
+/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/dut_case.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/dut_case.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dut_case
+-- Compiling architecture basic of dut_case
+
+} {} {}} /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/tb_case.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/tb_case.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_case
+-- Compiling architecture sim of tb_case
+
+} {} {}}

@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.02, Feb  2 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked
+Edut_numeric
+Z0 w1632365911
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric
+Z5 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/dut_numeric.vhd
+Z6 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/dut_numeric.vhd
+l0
+L6 1
+V[o;z0l0eIDh_@Sl34d=F23
+!s100 S7@QlnO]NdM0@JFT3bc2N2
+Z7 OV;C;2021.1;73
+32
+Z8 !s110 1632365916
+!i10b 1
+Z9 !s108 1632365916.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/dut_numeric.vhd|
+Z11 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/dut_numeric.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abasic
+R1
+R2
+R3
+DEx4 work 11 dut_numeric 0 22 [o;z0l0eIDh_@Sl34d=F23
+!i122 0
+l23
+L18 20
+V4fC0Ef?3bFTc30a]nUh8^1
+!s100 CIV0m_n7T??Hn3^lh4Mc_3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_numeric
+Z14 w1632366874
+R1
+R2
+R3
+!i122 3
+R4
+Z15 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/tb_numeric.vhd
+Z16 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/tb_numeric.vhd
+l0
+L5 1
+VF]G2BXP;eQET8Y@TbT7Fo0
+!s100 6hU5?6Igk_8h6l_m4W:F23
+R7
+32
+Z17 !s110 1632366878
+!i10b 1
+Z18 !s108 1632366878.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/tb_numeric.vhd|
+!s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/tb_numeric.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 10 tb_numeric 0 22 F]G2BXP;eQET8Y@TbT7Fo0
+!i122 3
+l29
+L11 50
+V6zca>CedknBGgKlb=cSQa1
+!s100 :9O?nflYh[R2eZCgnkzUh1
+R7
+32
+R17
+!i10b 1
+R18
+R19
+Z20 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric/tb_numeric.vhd|
+!i113 1
+R12
+R13

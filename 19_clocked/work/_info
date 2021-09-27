@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked
+Edut_clocked
+Z1 w1632354404
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z4 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/dut_clocked.vhd
+Z5 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/dut_clocked.vhd
+l0
+L4 1
+Vag^=_>h^LOiA^MYh]7hA?0
+!s100 4M2oUBVUM[onn8FzG3o?d3
+Z6 OV;C;2021.1;73
+32
+Z7 !s110 1632354408
+!i10b 1
+Z8 !s108 1632354408.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/dut_clocked.vhd|
+Z10 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/dut_clocked.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abasic
+R2
+R3
+DEx4 work 11 dut_clocked 0 22 ag^=_>h^LOiA^MYh]7hA?0
+!i122 2
+l15
+L13 13
+V1Z0K?6>?IU4`fFYU`7@M70
+!s100 ;1P?nfc;HHTzP7bOM4I9e0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_clocked
+Z13 w1632356961
+R2
+R3
+!i122 11
+R0
+Z14 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/tb_clocked.vhd
+Z15 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/tb_clocked.vhd
+l0
+L5 1
+VlQ=FF@`;ZhoXGS7nS3GLS1
+!s100 o;CMdM?QX;jC]HUZ^AC002
+R6
+32
+Z16 !s110 1632356970
+!i10b 1
+Z17 !s108 1632356970.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/tb_clocked.vhd|
+Z19 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/19_clocked/tb_clocked.vhd|
+!i113 1
+R11
+R12
+Atb1
+R2
+R3
+Z20 DEx4 work 10 tb_clocked 0 22 lQ=FF@`;ZhoXGS7nS3GLS1
+!i122 11
+l25
+Z21 L9 65
+VUZ9T`XP1IfQHzM]hk:TM23
+!s100 EH`Z[SUOTd:PeSH7W?T7i2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12

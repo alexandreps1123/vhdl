@@ -1,0 +1,23 @@
+--componente parametrizavel com a utilizacao paramentro de configuracao 'generic'
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity my_generic_and is
+    generic(
+        Nbits: natural := 8
+    );
+    port(
+        a : in std_logic_vector(Nbits-1 downto 0);
+        y : out std_logic
+    );
+end my_generic_and;
+
+architecture basic of my_generic_and is
+
+begin
+    --essa declaracao 'and' significa que
+    --esta sendo feito um 'and' com todos os elementos do vetor 'a'
+    --independente do tamanho do vetor
+    y <= and a;
+
+end basic;

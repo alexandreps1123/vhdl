@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.02, Feb  2 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/20_numeric
+Edut_case
+Z0 w1632373585
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+Z4 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case
+Z5 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/dut_case.vhd
+Z6 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/dut_case.vhd
+l0
+L5 1
+VD@4LfdAfY70JkK:Kl_6fC1
+!s100 0OJ362CeE4GU_kU1azUNL0
+Z7 OV;C;2021.1;73
+32
+Z8 !s110 1632373592
+!i10b 1
+Z9 !s108 1632373591.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/dut_case.vhd|
+Z11 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/dut_case.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abasic
+R1
+R2
+R3
+DEx4 work 8 dut_case 0 22 D@4LfdAfY70JkK:Kl_6fC1
+!i122 6
+l24
+L18 26
+VheRO7DJH6=?G;O8dQi=Im1
+!s100 ;Gn8RF]01RE@nhT]66[9T3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_case
+Z14 w1632374595
+R1
+R2
+R3
+!i122 10
+R4
+Z15 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/tb_case.vhd
+Z16 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/tb_case.vhd
+l0
+L5 1
+VkPa9DQgeB=?fVjEF?Vn>N1
+!s100 GYW35V`A57:[j6<G3jXYE3
+R7
+32
+Z17 !s110 1632374598
+!i10b 1
+Z18 !s108 1632374598.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/tb_case.vhd|
+!s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/tb_case.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 7 tb_case 0 22 kPa9DQgeB=?fVjEF?Vn>N1
+!i122 10
+l31
+L11 56
+VPQao4UP2;AF`Zgm;nge:z3
+!s100 ZjcKUSWGQ^6S]2M];aJf`3
+R7
+32
+R17
+!i10b 1
+R18
+R19
+Z20 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case/tb_case.vhd|
+!i113 1
+R12
+R13
