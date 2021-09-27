@@ -1,0 +1,53 @@
+--projeto ULA operando com numeros inteiros com sinal
+--operacoes: 	soma, subtracao, multiplicacao, divisao,
+--		rem(?), mod(?), abs(?), not, and, or e xor.
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity dut_ula is
+	generic(
+		Kbits : natural := 4
+	);
+	port(
+		clk : in std_logic;
+		i_a : in std_logic_vector(Kbits-1 downto 0);
+		i_b : in std_logic_vector(Kbits-1 downto 0);
+		sel : in std_logic_vector(3 downto 0);
+		o_r : out std_logic_vector(2*Kbits-1 downto 0)
+	);
+end dut_ula;
+
+architecture basic of dut_ula is
+	
+signal s_a : signed(Kbits-1 downto 0);
+signal s_b : signed(Kbits-1 downto 0);
+signal s_r : signed(2*Kbits-1 downto 0);
+
+begin
+	s_a <= signed(i_a);
+	s_b <= signed(i_b);
+	o_r <= std_logic_vector(s_r);
+
+	process(clk) is
+	begin
+		if(rising_edge(clk))then
+
+			case sel is
+				when "0000" => s_r <= resize(s_a + s_b, s_r'length);
+				when "0001" => s_r <= resize(s_a - s_b, s_r'length);
+				when "0010" => s_r <= resize(s_a * s_b, s_r'length);
+				when "0011" => s_r <= resize(s_a / s_b, s_r'length);
+				when "0100" => s_r <= resize(s_a rem s_b, s_r'length);
+				when "0101" => s_r <= resize(s_a mod s_b, s_r'length);
+				when "0110" => s_r <= resize(abs(s_a), s_r'length);
+				when "0111" => s_r <= resize(signed(not(std_logic_vector(s_a))), s_r'length);
+				when "1000" => s_r <= resize(signed(std_logic_vector(s_a) and std_logic_vector(s_b)), s_r'length);
+				when "1001" => s_r <= resize(signed(std_logic_vector(s_a) or std_logic_vector(s_b)), s_r'length);
+				when "1010" => s_r <= resize(signed(std_logic_vector(s_a) xor std_logic_vector(s_b)), s_r'length);
+				when others => s_r <= s_r;
+			end case;
+		end if;
+	end process;
+
+end basic;
