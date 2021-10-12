@@ -1,0 +1,31 @@
+/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/dut_generate.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/dut_generate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package parametros
+-- Compiling entity dut_generate
+-- Compiling architecture basic of dut_generate
+
+} {} {}} /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/tb_generate.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/tb_generate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package parametros
+-- Compiling entity tb_generate
+-- Compiling architecture sim of tb_generate
+
+} {} {}} /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/parametros.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/parametros.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package parametros
+-- Compiling package body parametros
+-- Loading package parametros
+
+} {} {}}
