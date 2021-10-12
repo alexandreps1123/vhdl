@@ -1,0 +1,98 @@
+# reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project ULA
+# Compile of dut_ula.vhd was successful.
+vsim work.tb_ula
+# vsim work.tb_ula 
+# Start time: 06:28:33 on Sep 29,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_ula(sim)
+# Loading work.dut_ula(basic)
+add wave -position end  sim:/tb_ula/clk
+add wave -position end  sim:/tb_ula/i_a
+add wave -position end  sim:/tb_ula/i_b
+add wave -position end  sim:/tb_ula/sel
+add wave -position end  sim:/tb_ula/o_r
+run
+# ** Error: DIV, MOD, or REM by zero
+#    Time: 7 ns  Iteration: 1  Instance: /tb_ula/ULA
+# ** Error: DIV, MOD, or REM by zero
+#    Time: 9 ns  Iteration: 1  Instance: /tb_ula/ULA
+# ** Error: DIV, MOD, or REM by zero
+#    Time: 11 ns  Iteration: 1  Instance: /tb_ula/ULA
+run
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 176 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 178 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 180 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 182 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 184 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 186 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 188 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 190 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 192 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 194 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 196 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 198 ns  Iteration: 0  Instance: /tb_ula
+# ** Warning: NUMERIC_STD.TO_SIGNED: vector truncated
+#    Time: 200 ns  Iteration: 0  Instance: /tb_ula
+quit -sim
+# End time: 06:59:11 on Sep 29,2021, Elapsed time: 0:30:38
+# Errors: 3, Warnings: 15
+# reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project generate-package
+# Compile of dut_generate.vhd failed with 3 errors.
+# Compile of dut_generate.vhd failed with 3 errors.
+# Compile of parametros.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 4 errors.
+# Compile of parametros.vhd was successful.
+# Compile of dut_generate.vhd was successful.
+# Compile of tb_generate.vhd was successful.
+vsim work.tb_generate
+# vsim work.tb_generate 
+# Start time: 12:44:51 on Sep 29,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.parametros(body)
+# Loading work.tb_generate(sim)
+# Loading work.dut_generate(basic)
+add wave -position end  sim:/tb_generate/n
+add wave -position end  sim:/tb_generate/i_a
+add wave -position end  sim:/tb_generate/o_res
+run
+quit -sim
+# End time: 13:53:43 on Sep 29,2021, Elapsed time: 1:08:52
+# Errors: 0, Warnings: 11
+# reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project shiftreg
+# Compile of dut_shiftreg.vhd was successful.
+# Compile of tb_shiftreg.vhd failed with 1 errors.
+# Compile of tb_shiftreg.vhd was successful.
+vsim work.tb_shiftreg
+# vsim work.tb_shiftreg 
+# Start time: 14:20:34 on Sep 29,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_shiftreg(sim)
+# Loading work.dut_shiftreg(basic)
+add wave -position end  sim:/tb_shiftreg/clk
+add wave -position end  sim:/tb_shiftreg/entrada
+add wave -position end  sim:/tb_shiftreg/saida
+run

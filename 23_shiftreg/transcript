@@ -1,0 +1,22 @@
+# reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project shiftreg
+# Compile of dut_shiftreg.vhd was successful.
+# Compile of tb_shiftreg.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_shiftreg
+# vsim work.tb_shiftreg 
+# Start time: 14:26:08 on Sep 29,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_shiftreg(sim)
+# Loading work.dut_shiftreg(basic)
+add wave -position end  sim:/tb_shiftreg/clk
+add wave -position end  sim:/tb_shiftreg/entrada
+add wave -position end  sim:/tb_shiftreg/saida
+run
+quit -sim
+# End time: 14:28:49 on Sep 29,2021, Elapsed time: 0:02:41
+# Errors: 0, Warnings: 2
+# reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
