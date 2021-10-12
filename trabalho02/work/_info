@@ -1,0 +1,273 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.02, Feb  2 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/alexandre
+Edut_generate
+Z0 w1632909954
+Z1 DPx4 work 10 parametros 0 22 @A88?B1iPQfbD1KF[4JD>3
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 151
+Z5 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02
+Z6 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/dut_generate.vhd
+Z7 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/dut_generate.vhd
+l0
+L6 1
+V>G3ZOHWZD8BgCzREBDmY62
+!s100 I;K8b[8TST[C6?Kg8l_LP2
+Z8 OV;C;2021.1;73
+32
+Z9 !s110 1633291750
+!i10b 1
+Z10 !s108 1633291750.000000
+Z11 !s90 -reportprogress|300|-work|work|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/dut_generate.vhd|
+Z12 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/dut_generate.vhd|
+!i113 1
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Abasic
+R1
+R2
+R3
+R4
+DEx4 work 12 dut_generate 0 22 >G3ZOHWZD8BgCzREBDmY62
+!i122 151
+l18
+L16 9
+V<4YmAC2mM0]@IJCS>ii<43
+!s100 @DSnBV3o0R=M:He`c:H[o0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Edut_media
+Z15 w1633311586
+Z16 DPx4 work 10 parametros 0 22 CTWaHI5oCNlYJ:@2eh[hJ0
+R2
+R3
+R4
+!i122 659
+R5
+Z17 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd
+Z18 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd
+l0
+L14 1
+Vl6C;3c`V0`Y>ij>idnS9T1
+!s100 T699KiB>OJ_NY`@A23b7B1
+R8
+32
+Z19 !s110 1633311616
+!i10b 1
+Z20 !s108 1633311616.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd|
+Z22 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd|
+!i113 1
+Z23 o-work work -2002 -explicit
+Z24 tExplicit 1 NoCoverage 1 CvgOpt 0
+Abasic
+R16
+R2
+R3
+R4
+DEx4 work 9 dut_media 0 22 Jg^XO^B4Ol8DzWCSNecI11
+!i122 656
+l39
+L31 24
+VI9K^2L[S@MODb=k=zGGWf2
+!s100 YjSgN5lA]J>DIOYAdQNRb1
+R8
+32
+!s110 1633311221
+!i10b 1
+!s108 1633311221.000000
+R21
+R22
+!i113 1
+R23
+R24
+Edut_shiftreg
+Z25 w1633284154
+R3
+R4
+!i122 27
+R5
+Z26 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_shiftreg.vhd
+Z27 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_shiftreg.vhd
+l0
+L4 1
+V[<G7HTRTdRH7gc06glPaM2
+!s100 AN9>PJSGNb3Vf5mZ90kD10
+R8
+32
+Z28 !s110 1633285195
+!i10b 1
+Z29 !s108 1633285195.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_shiftreg.vhd|
+Z31 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_shiftreg.vhd|
+!i113 1
+R23
+R24
+Abasic
+R3
+R4
+DEx4 work 12 dut_shiftreg 0 22 [<G7HTRTdRH7gc06glPaM2
+!i122 27
+l23
+L16 17
+VgG=^n8nYofzzPNel1jjc00
+!s100 H`9jS83c>elG^[;dRUcTS0
+R8
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R23
+R24
+Pparametros
+R3
+R4
+!i122 660
+Z32 w1633308615
+R5
+Z33 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/parametros.vhd
+Z34 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/parametros.vhd
+l0
+L5 1
+VCTWaHI5oCNlYJ:@2eh[hJ0
+!s100 `AWHcd2iCe4a0EKlI6JQk2
+R8
+32
+Z35 !s110 1633311617
+!i10b 1
+R20
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/parametros.vhd|
+Z37 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/parametros.vhd|
+!i113 1
+R23
+R24
+Bbody
+R16
+R3
+R4
+!i122 660
+l0
+Z38 L15 1
+Z39 VVgV_D80[if:<Nb[>;aLKD0
+Z40 !s100 c^`h8PJbhaKTU;<oH8<z:3
+R8
+32
+R35
+!i10b 1
+R20
+R36
+R37
+!i113 1
+R23
+R24
+Etb_generate
+Z41 w1632930111
+R1
+R2
+R3
+R4
+!i122 161
+R5
+Z42 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/tb_generate.vhd
+Z43 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/tb_generate.vhd
+l0
+L7 1
+V?9h2YI5]7o784IBd;3Obi0
+!s100 PZNKF?:6AR>TURa?g:]=U0
+R8
+32
+Z44 !s110 1633291760
+!i10b 1
+Z45 !s108 1633291757.000000
+Z46 !s90 -reportprogress|300|-work|work|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/tb_generate.vhd|
+Z47 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/22_generate-package/tb_generate.vhd|
+!i113 1
+R13
+R14
+Asim
+R1
+R2
+R3
+R4
+DEx4 work 11 tb_generate 0 22 ?9h2YI5]7o784IBd;3Obi0
+!i122 161
+l27
+L13 36
+VFEShcD_1K^_<HoR85h=TM2
+!s100 iB:n:5UllTP<1_Jc=?bD10
+R8
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R13
+R14
+Etb_media
+Z48 w1633311611
+R16
+R2
+R3
+R4
+!i122 658
+R5
+Z49 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd
+Z50 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd
+l0
+L6 1
+Vb<S<18=lZdW_eP;^l<BGl1
+!s100 mb6B67Jib10az273V4Sh;3
+R8
+32
+R19
+!i10b 1
+R20
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd|
+Z52 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd|
+!i113 1
+R23
+R24
+Asim
+R16
+R2
+R3
+R4
+DEx4 work 8 tb_media 0 22 b<S<18=lZdW_eP;^l<BGl1
+!i122 658
+l34
+L13 52
+VV5?[55Xz0[;G8a;Nb5EUD3
+!s100 1hg:RBc[GmhGN_UFg:fJz3
+R8
+32
+R19
+!i10b 1
+R20
+R51
+R52
+!i113 1
+R23
+R24
