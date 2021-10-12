@@ -10,23 +10,23 @@ z2
 cModel Technology
 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/21_case
 Edut_ula
-Z0 w1632507270
+Z0 w1632761385
 Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 48
+!i122 50
 Z4 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA
 Z5 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/dut_ula.vhd
 Z6 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/dut_ula.vhd
 l0
-L8 1
-VJCdQPlFQR@c@5YYnF[HBH3
-!s100 bAd1JV:4WU?_K^2kB9W??0
+L12 1
+VElaM[=DkU`ZIeX?UaKNMT3
+!s100 1z8JUW=YoDD_FoFWaD4mP3
 Z7 OV;C;2021.1;73
 32
-Z8 !s110 1632507355
+Z8 !s110 1632907686
 !i10b 1
-Z9 !s108 1632507355.000000
+Z9 !s108 1632907685.000000
 Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/dut_ula.vhd|
 Z11 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/dut_ula.vhd|
 !i113 1
@@ -36,12 +36,12 @@ Abasic
 R1
 R2
 R3
-DEx4 work 7 dut_ula 0 22 JCdQPlFQR@c@5YYnF[HBH3
-!i122 48
-l27
-L21 33
-V?X>LIi<hTVS<8iEaZ=4e11
-!s100 M]UMVX]VO0n>:W6A8[k3@0
+DEx4 work 7 dut_ula 0 22 ElaM[=DkU`ZIeX?UaKNMT3
+!i122 50
+l31
+L25 45
+VVZ;[i]2^H4VChk:J`Q6P[0
+!s100 bM=bSU_5L4OJ7DP4cmV>E0
 R7
 32
 R8
@@ -69,9 +69,9 @@ R7
 32
 Z17 !s110 1632507356
 !i10b 1
-R9
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/tb_ula.vhd|
-Z19 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/tb_ula.vhd|
+Z18 !s108 1632507355.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/tb_ula.vhd|
+Z20 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho01_ULA/tb_ula.vhd|
 !i113 1
 R12
 R13
@@ -79,19 +79,19 @@ Asim
 R1
 R2
 R3
-Z20 DEx4 work 6 tb_ula 0 22 Boi9n2M@VQg61d[X^J5ez1
+DEx4 work 6 tb_ula 0 22 Boi9n2M@VQg61d[X^J5ez1
 !i122 49
 l32
-Z21 L12 56
-Z22 VfWc:8eo^JJHL2OeFK3;PT1
-Z23 !s100 d4:;4LXMe5BUWCH^XEJ`?1
+L12 56
+VfWc:8eo^JJHL2OeFK3;PT1
+!s100 d4:;4LXMe5BUWCH^XEJ`?1
 R7
 32
 R17
 !i10b 1
-R9
 R18
 R19
+R20
 !i113 1
 R12
 R13
