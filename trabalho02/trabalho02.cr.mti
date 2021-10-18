@@ -1,4 +1,4 @@
-/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd {0 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd
+/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -7,13 +7,8 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb 
 -- Loading package parametros
 -- Compiling entity dut_media
 -- Compiling architecture basic of dut_media
-** Error: /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd(41): (vcom-1600) No feasible entries for subprogram "RESIZE".
-   Visible subprograms are:
-      (explicit) NUMERIC_STD.RESIZE[UNRESOLVED_SIGNED, NATURAL return UNRESOLVED_SIGNED] at $MODEL_TECH/../vhdl_src/ieee/mti_numeric_std.vhd(1415)
-      (explicit) NUMERIC_STD.RESIZE[UNRESOLVED_UNSIGNED, NATURAL return UNRESOLVED_UNSIGNED] at $MODEL_TECH/../vhdl_src/ieee/mti_numeric_std.vhd(1425)
-** Note: /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/dut_media.vhd(54): VHDL Compiler exiting
 
-} {10.0 11.0} {}} /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd
+} {} {}} /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02/tb_media.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  2 2021
 -- Loading package STANDARD
 -- Loading package TEXTIO
