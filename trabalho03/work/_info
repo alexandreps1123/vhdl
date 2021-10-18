@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer
+Edut_timer
+Z0 w1634577151
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 50
+Z4 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03
+Z5 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/dut_timer.vhd
+Z6 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/dut_timer.vhd
+l0
+L5 1
+V2b[=YHU?<1PHz1j85g0S52
+!s100 lb_Y1PRjS9j9C^Mei<V>G1
+Z7 OV;C;2021.1;73
+32
+Z8 !s110 1634577159
+!i10b 1
+Z9 !s108 1634577159.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/dut_timer.vhd|
+Z11 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/dut_timer.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abasic
+R1
+R2
+R3
+Z14 DEx4 work 9 dut_timer 0 22 2b[=YHU?<1PHz1j85g0S52
+!i122 50
+l23
+Z15 L15 83
+V0I55Rc^nQkcIW>4Ecl;g`0
+!s100 mcb<XcOXU>;fBUZ_XSigV1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_timer
+Z16 w1634167937
+R1
+R2
+R3
+!i122 48
+R4
+Z17 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/tb_timer.vhd
+Z18 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/tb_timer.vhd
+l0
+L5 1
+VYQ]8YQWPnJ6@NiLebD=E41
+!s100 QTjhhSo>k_Zo>kWh1fTL=0
+R7
+32
+Z19 !s110 1634576303
+!i10b 1
+Z20 !s108 1634576303.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/tb_timer.vhd|
+Z22 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho03/tb_timer.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 8 tb_timer 0 22 YQ]8YQWPnJ6@NiLebD=E41
+!i122 48
+l26
+L9 101
+V6R=h6amh<Z[bi?cYJMbm`1
+!s100 S<C5e?mbac;YhF[HC<jON2
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13
