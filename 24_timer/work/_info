@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02
+Edut_timer
+Z0 w1634088326
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+Z4 d/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer
+Z5 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/dut_timer.vhd
+Z6 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/dut_timer.vhd
+l0
+L5 1
+V0EKiGL9I=@YaBW6]mX2;[0
+!s100 Gk9M3o2X[5z^BRIG9@:CD1
+Z7 OV;C;2021.1;73
+32
+Z8 !s110 1634088507
+!i10b 1
+Z9 !s108 1634088507.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/dut_timer.vhd|
+Z11 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/dut_timer.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abasic
+R1
+R2
+R3
+DEx4 work 9 dut_timer 0 22 0EKiGL9I=@YaBW6]mX2;[0
+!i122 6
+l23
+L14 54
+VR6W_dHha7@?7<9Y35FOT@0
+!s100 `3g4Y5QADNEcBC3S4>Ce81
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_timer
+Z14 w1634087605
+R1
+R2
+R3
+!i122 7
+R4
+Z15 8/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/tb_timer.vhd
+Z16 F/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/tb_timer.vhd
+l0
+L5 1
+VaiZ6]<iYBf>Iao^=527U@2
+!s100 z:=1?mB[jg4CWfTYicl2f1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/tb_timer.vhd|
+Z18 !s107 /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/24_timer/tb_timer.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+Z19 DEx4 work 8 tb_timer 0 22 aiZ6]<iYBf>Iao^=527U@2
+!i122 7
+l25
+Z20 L9 61
+Z21 V8]:3V4Y<36Y?jWDoO6ia32
+Z22 !s100 =J10MXiP5_4lSW0A3LQed2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13

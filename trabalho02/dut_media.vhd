@@ -38,7 +38,7 @@ architecture basic of dut_media is
 
 begin
 
-	media <= resize(std_logic_vector(unsigned(soma(soma'high))/reg'length), media'length);
+	media <= std_logic_vector(unsigned(soma(soma'high))/reg'length);
 	soma(0) <= reg(0);
 	g1: for A in 1 to m-2 generate
 		soma(A) <= std_logic_vector(unsigned(soma(A-1)) + unsigned(reg(A)));

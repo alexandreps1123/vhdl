@@ -1,6 +1,27 @@
 # reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
 # Loading project trabalho02
+# reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
+cd /home/alexandre/Documents/2021-1/sistemas-reconfiguraveis-para-automacao/vhdl/trabalho02
+# Loading project trabalho02
 # Compile of tb_media.vhd was successful.
 # Compile of dut_media.vhd failed with 1 errors.
 # Compile of parametros.vhd was successful.
 # 3 compiles, 1 failed with 1 error.
+# Compile of tb_media.vhd was successful.
+# Compile of dut_media.vhd was successful.
+# Compile of parametros.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# reading /home/alexandre/intelFPGA_pro/21.2/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project 24_timer
+# Compile of dut_timer.vhd failed with 1 errors.
+# Compile of tb_timer.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of dut_timer.vhd failed with 1 errors.
+# Compile of tb_timer.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of dut_timer.vhd was successful.
+# Compile of tb_timer.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of dut_timer.vhd was successful.
+# Compile of tb_timer.vhd was successful.
+# 2 compiles, 0 failed with no errors.
